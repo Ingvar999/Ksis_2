@@ -1,0 +1,7 @@
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\bin\Debug\LocalNetwork.exe.config
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\bin\Debug\LocalNetwork.exe
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\bin\Debug\LocalNetwork.pdb
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\obj\Debug\LocalNetwork.csprojResolveAssemblyReference.cache
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\obj\Debug\LocalNetwork.csproj.CoreCompileInputs.cache
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\obj\Debug\LocalNetwork.exe
+C:\Users\snajp\OneDrive\Programms\КСиС\Lab_2\LocalNetwork\LocalNetwork\obj\Debug\LocalNetwork.pdb
